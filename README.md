@@ -80,18 +80,18 @@ For more examples of using this module, please refer to the `data_cleaning.ipynb
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/ashrafalaghbari/GA-TCN-LSTM/blob/main/license) - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/ashrafalaghbari/odc/blob/main/LICENSE) - see the LICENSE file for details.
 
 
 ## Contributing
 
 Contributions are always welcome!
 
-See [contributing.md](https://github.com/ashrafalaghbari/GA-TCN-LSTM/blob/main/contributing.md) for ways to get started.
+See [contributing.md](https://github.com/ashrafalaghbari/odc/blob/main/contributing.md) for ways to get started.
 
 ## Contact
 
-If you have any questions or encounter any issues running `odc module`, please feel free to [open an issue](https://github.com/ashrafalaghbari/Data-Viz/issues) or contact me directly at [ashrafalaghbari@hotmail.com](mailto:ashrafalaghbari@hotmail.com). I'll be happy to help!
+If you have any questions or encounter any issues running `odc module`, please feel free to [open an issue](https://github.com/ashrafalaghbari/odc/issues) or contact me directly at [ashrafalaghbari@hotmail.com](mailto:ashrafalaghbari@hotmail.com). I'll be happy to help!
 
 
 
