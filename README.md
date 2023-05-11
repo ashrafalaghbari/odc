@@ -80,14 +80,14 @@ For more examples of using this module, please refer to the `data_cleaning.ipynb
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/ashrafalaghbari/GA-TCN-LSTM/blob/main/license) - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/ashrafalaghbari/odc/blob/main/LICENSE) - see the LICENSE file for details.
 
 
 ## Contributing
 
 Contributions are always welcome!
 
-See [contributing.md](https://github.com/ashrafalaghbari/GA-TCN-LSTM/blob/main/contributing.md) for ways to get started.
+See [contributing.md](https://github.com/ashrafalaghbari/odc/blob/main/contributing.md) for ways to get started.
 
 ## Contact
 
