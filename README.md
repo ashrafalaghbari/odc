@@ -91,7 +91,7 @@ See [contributing.md](https://github.com/ashrafalaghbari/odc/blob/main/contribut
 
 ## Contact
 
-If you have any questions or encounter any issues running `odc module`, please feel free to [open an issue](https://github.com/ashrafalaghbari/odc/issues) or contact me directly at [ashrafalaghbari@hotmail.com](mailto:ashrafalaghbari@hotmail.com). I'll be happy to help!
+If you have any questions or encounter any issues running `odc module`, please feel free to [open an issue](https://github.com/ashrafalaghbari/odc/issues). I'll be happy to help!
 
 
 
